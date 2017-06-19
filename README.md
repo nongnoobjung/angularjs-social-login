@@ -8,16 +8,11 @@ Supported sites:
 
 ## Installation
 
-### via npm
-
-```shell
-npm install angularjs-social-login --save
-```
 
 ### via bower
 
 ```shell
-bower install angularjs-social-login --save
+bower install nnj-social-login --save
 ```
 
 ### configure installation
